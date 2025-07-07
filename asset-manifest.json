@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/anna-webinar-demo/static/css/main.f855e6bc.css",
+    "main.js": "/anna-webinar-demo/static/js/main.53706763.js",
+    "static/js/453.5fae7755.chunk.js": "/anna-webinar-demo/static/js/453.5fae7755.chunk.js",
+    "index.html": "/anna-webinar-demo/index.html",
+    "main.f855e6bc.css.map": "/anna-webinar-demo/static/css/main.f855e6bc.css.map",
+    "main.53706763.js.map": "/anna-webinar-demo/static/js/main.53706763.js.map",
+    "453.5fae7755.chunk.js.map": "/anna-webinar-demo/static/js/453.5fae7755.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.53706763.js"
+  ]
+}
